@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Forms"
-date:       2020-10-19 19:46:16 +0000
+date:       2020-10-19 15:46:17 -0400
 permalink:  react_forms
 ---
 
@@ -91,6 +91,7 @@ handleSubmit = event => {
   }
 	
 	...
+	
 	</form>
         {this.listOfSubmissions()}
       </div>
